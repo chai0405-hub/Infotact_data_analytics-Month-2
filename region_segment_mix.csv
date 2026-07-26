@@ -1,0 +1,21 @@
+Region,CLTVSegment,Customers,ShareWithinRegionPercent
+Central,Low Value,46,20.26
+Central,Medium Value,63,27.75
+Central,High Value,60,26.43
+Central,Very High Value,58,25.55
+East,Low Value,64,28.57
+East,Medium Value,47,20.98
+East,High Value,60,26.79
+East,Very High Value,53,23.66
+North,Low Value,60,25.86
+North,Medium Value,63,27.16
+North,High Value,52,22.41
+North,Very High Value,57,24.57
+South,Low Value,60,26.32
+South,Medium Value,55,24.12
+South,High Value,52,22.81
+South,Very High Value,61,26.75
+West,Low Value,60,24.39
+West,Medium Value,61,24.8
+West,High Value,65,26.42
+West,Very High Value,60,24.39
