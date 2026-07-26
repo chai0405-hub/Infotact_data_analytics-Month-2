@@ -1,0 +1,5 @@
+CLTVSegment,Customers,TotalRevenue,AverageCLTV,MedianCLTV,AverageOrders,AverageOrderValue,AverageLifespanMonths,AveragePurchaseFrequency
+Low Value,290,352738.71,1216.32,1225.39,1.36,962.17,1.08,1.24
+Medium Value,289,985068.45,3408.06,3378.23,2.24,1843.43,1.31,1.73
+High Value,289,2233276.63,7726.63,7568.04,3.39,3210.88,1.97,1.81
+Very High Value,289,9268406.5,32065.49,24272.48,5.75,6344.76,3.47,1.86
