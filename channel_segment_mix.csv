@@ -1,0 +1,25 @@
+AcquisitionChannel,CLTVSegment,Customers,ShareWithinChannelPercent
+Affiliate,Low Value,32,26.02
+Affiliate,Medium Value,31,25.2
+Affiliate,High Value,26,21.14
+Affiliate,Very High Value,34,27.64
+Email,Low Value,49,28.0
+Email,Medium Value,34,19.43
+Email,High Value,51,29.14
+Email,Very High Value,41,23.43
+Organic Search,Low Value,51,19.25
+Organic Search,Medium Value,63,23.77
+Organic Search,High Value,68,25.66
+Organic Search,Very High Value,83,31.32
+Paid Search,Low Value,66,32.35
+Paid Search,Medium Value,57,27.94
+Paid Search,High Value,44,21.57
+Paid Search,Very High Value,37,18.14
+Referral,Low Value,37,17.87
+Referral,Medium Value,55,26.57
+Referral,High Value,52,25.12
+Referral,Very High Value,63,30.43
+Social Media,Low Value,55,30.05
+Social Media,Medium Value,49,26.78
+Social Media,High Value,48,26.23
+Social Media,Very High Value,31,16.94
