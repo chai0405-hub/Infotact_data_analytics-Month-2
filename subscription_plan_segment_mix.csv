@@ -1,0 +1,13 @@
+SubscriptionPlan,CLTVSegment,Customers,AverageCLTV,TotalCLTV
+Basic,Low Value,246,1181.75,290710.82
+Basic,Medium Value,206,3380.1,696299.6
+Basic,High Value,108,6869.71,741928.56
+Basic,Very High Value,9,16198.7,145788.27
+Premium,Low Value,6,1873.2,11239.23
+Premium,Medium Value,7,3206.38,22444.68
+Premium,High Value,42,8839.01,371238.59
+Premium,Very High Value,151,41782.77,6309198.36
+Standard,Low Value,38,1336.37,50782.22
+Standard,Medium Value,76,3502.45,266185.94
+Standard,High Value,139,8056.33,1119829.89
+Standard,Very High Value,129,21797.99,2811940.56
