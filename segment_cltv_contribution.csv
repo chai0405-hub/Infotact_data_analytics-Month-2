@@ -1,0 +1,5 @@
+CLTVSegment,Customers,TotalHistoricalCLTV,AverageHistoricalCLTV,CLTVContributionPercent
+Low Value,290,352732.27,1216.32,2.75
+Medium Value,289,984930.22,3408.06,7.67
+High Value,289,2232997.04,7726.63,17.39
+Very High Value,289,9266927.19,32065.49,72.19
